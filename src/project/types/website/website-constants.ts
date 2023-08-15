@@ -17,6 +17,7 @@ export const kSiteRepoBranch = "repo-branch";
 export const kSiteIssueUrl = "issue-url";
 export const kSiteRepoActions = "repo-actions";
 export const kSiteReaderMode = "reader-mode";
+export const kSiteBinderUrl = "binder-url";
 
 export const kSiteNavbar = "navbar";
 export const kSiteSidebar = "sidebar";

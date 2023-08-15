@@ -774,6 +774,10 @@ function repoActionLinks(
   >;
 }
 
+function binderActionLinks() {
+  
+}
+
 async function resolveFooter(
   project: ProjectContext,
   footer?: NavigationFooter,
